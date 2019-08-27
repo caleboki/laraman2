@@ -3,7 +3,7 @@
 2. After configuring your database settings (see below) run php artisan migrate
 3. Run php artisan serve --port=8000
 4. Register for an account
-5. After successful registration visit the /files URL to see the file upload functionality
+5. After successful registration you would be redirected to the /files URL 
 
 
 ### Configure the Database
